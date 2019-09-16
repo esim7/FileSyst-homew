@@ -1,0 +1,11 @@
+C:\Users\home\source\repos\FileSysHomew\FileSysHomew\bin\Debug\netcoreapp2.2\FileSysHomew.deps.json
+C:\Users\home\source\repos\FileSysHomew\FileSysHomew\bin\Debug\netcoreapp2.2\FileSysHomew.runtimeconfig.json
+C:\Users\home\source\repos\FileSysHomew\FileSysHomew\bin\Debug\netcoreapp2.2\FileSysHomew.runtimeconfig.dev.json
+C:\Users\home\source\repos\FileSysHomew\FileSysHomew\bin\Debug\netcoreapp2.2\FileSysHomew.dll
+C:\Users\home\source\repos\FileSysHomew\FileSysHomew\bin\Debug\netcoreapp2.2\FileSysHomew.pdb
+C:\Users\home\source\repos\FileSysHomew\FileSysHomew\obj\Debug\netcoreapp2.2\FileSysHomew.csprojAssemblyReference.cache
+C:\Users\home\source\repos\FileSysHomew\FileSysHomew\obj\Debug\netcoreapp2.2\FileSysHomew.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\FileSysHomew\FileSysHomew\obj\Debug\netcoreapp2.2\FileSysHomew.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\FileSysHomew\FileSysHomew\obj\Debug\netcoreapp2.2\FileSysHomew.AssemblyInfo.cs
+C:\Users\home\source\repos\FileSysHomew\FileSysHomew\obj\Debug\netcoreapp2.2\FileSysHomew.dll
+C:\Users\home\source\repos\FileSysHomew\FileSysHomew\obj\Debug\netcoreapp2.2\FileSysHomew.pdb
